@@ -7,7 +7,8 @@
 
 ### Segue abaixo uma tabela contendo alguns dados sobre meu perfil no GitHub:
 
-
+![Vinicius Fernandes Inácio GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusFernandesInacio&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que ultilizo:
 
