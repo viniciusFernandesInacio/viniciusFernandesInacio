@@ -20,3 +20,5 @@
   <img alagn="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alagn="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
   <img alagn="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />    
+
+  <img align="center" src="https://github.com/viniciusFernandesInacio/viniciusFernandesInacio/blob/output/github-contribution-grid-snake.gif">
