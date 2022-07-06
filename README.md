@@ -1,11 +1,12 @@
 
-### Olá, meu nome é Vinicius Fernandes Inácio 👨‍💻
+### Olá, meu nome é Vinicius Fernandes Inácio 👨‍💻.
+### Almejo novas perspectivas de futuro e crescimento, me organizando, programando e trabalhando para que eu possa criar mais referência em minha área de atuação a cada dia que passe. 
 
 ### Segue abaixo meu perfil do LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandesdesenvolvedor/)
 
-### Segue abaixo uma tabela contendo alguns dados sobre meu perfil no GitHub:
+### Segue abaixo alguns dados sobre meu perfil no GitHub:
 
 ![Vinicius Fernandes Inácio GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusFernandesInacio&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio)](https://github.com/anuraghazra/github-readme-stats)
