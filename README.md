@@ -1,9 +1,12 @@
-### Hi, I'm Vinicius Fernandes Inácio 👨‍💻  
+### Hi, I'm Vinicius Fernandes Inácio!
 #### Full Stack Developer | Cloud & DevOps 
 
 Specialized in building high-performance, observable systems with robust monitoring solutions. With expertise in **Java, Go, and Python**, I leverage frameworks like **Spring Boot (Web/Batch)** combined with **Docker, Kubernetes**, and full observability stacks (**Prometheus, Grafana, Zabbix**) to deliver reliable, production-grade applications.
 
 I implement comprehensive monitoring solutions and optimize infrastructure performance. Whether designing **observable microservices**, configuring alerts, or solving complex scaling challenges, I focus on **system reliability** and **data-driven optimizations**.
+
+### 📫 Professional Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-fullstack/)
 
 ### 🔍 Core Competencies  
 - Cloud-Native Application Development  
@@ -13,7 +16,6 @@ I implement comprehensive monitoring solutions and optimize infrastructure perfo
 - CI/CD Pipeline Automation  
 
 ### 🛠️ Technical Stack  
-
 **Backend Development**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -45,6 +47,3 @@ I implement comprehensive monitoring solutions and optimize infrastructure perfo
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusFernandesInacio&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
-
-### 📫 Professional Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-fullstack/)
