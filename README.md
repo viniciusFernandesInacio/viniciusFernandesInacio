@@ -48,6 +48,3 @@ I implement comprehensive monitoring solutions and optimize infrastructure perfo
 
 ### 📫 Professional Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-fullstack/)
-
-### 🔄 Activity Visualization 
-![Snake animation](https://github.com/viniciusFernandesInacio/viniciusFernandesInacio/blob/output/github-contribution-grid-snake.svg)
