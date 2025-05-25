@@ -1,6 +1,6 @@
 
 ### Olá, meu nome é Vinicius Fernandes Inácio 👨‍💻.
-### Almejo novas perspectivas de futuro e crescimento, me organizando, programando e trabalhando para que eu possa criar mais referência em minha área de atuação a cada dia que passe. 
+### Almejo novas perspectivas de futuro e crescimento, me organizando, programando e trabalhando para que eu possa criar mais referência em minha área de atuação a cada dia que passe.
 
 ### Segue abaixo meu perfil do LinkedIn:
 
@@ -9,17 +9,20 @@
 ### Segue abaixo alguns dados sobre meu perfil no GitHub:
 
 ![Vinicius Fernandes Inácio GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusFernandesInacio&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que utilizo:
 
 <div style="display: inline_block"><br/>
-  <img alagn="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img alagn="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
-  <img alagn="center" alt="JavaScript"    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />  
-  <img alagn="center" alt="Phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  
-  <img alagn="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img alagn="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
-  <img alagn="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />    
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img align="center" alt="Spring Batch" src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
-  <img align="center" src="https://github.com/viniciusFernandesInacio/viniciusFernandesInacio/blob/output/github-contribution-grid-snake.gif">
+<img align="center" src="https://github.com/viniciusFernandesInacio/viniciusFernandesInacio/blob/output/github-contribution-grid-snake.gif">
