@@ -25,4 +25,3 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-<img align="center" src="https://github.com/viniciusFernandesInacio/viniciusFernandesInacio/blob/output/github-contribution-grid-snake.gif">
