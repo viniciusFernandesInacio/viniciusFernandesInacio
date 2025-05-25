@@ -41,9 +41,11 @@ I implement comprehensive monitoring solutions and optimize infrastructure perfo
 
 ### 📊 GitHub Analytics  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusFernandesInacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusFernandesInacio&theme=tokyonight&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusFernandesInacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusFernandesInacio&theme=tokyonight&hide_border=true"/>
+</div>
 
 ### 📫 Professional Contact  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-fullstack/)
