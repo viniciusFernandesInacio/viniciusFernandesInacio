@@ -6,7 +6,7 @@ Specialized in building high-performance, observable systems with robust monitor
 I implement comprehensive monitoring solutions and optimize infrastructure performance. Whether designing **observable microservices**, configuring alerts, or solving complex scaling challenges, I focus on **system reliability** and **data-driven optimizations**.
 
 ### 📫 Professional Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-fullstack/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/viniciusfernandes-developer)
 
 ### 🔍 Core Competencies  
 - Cloud-Native Application Development  
