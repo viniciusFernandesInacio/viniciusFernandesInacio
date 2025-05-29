@@ -1,5 +1,5 @@
 ### Hi, I'm Vinicius Fernandes Inácio!
-#### Full Stack Developer | Cloud & DevOps 
+#### Software Developer 
 
 Specialized in building high-performance, observable systems with robust monitoring solutions. With expertise in **Java, Go, and Python**, I leverage frameworks like **Spring Boot (Web/Batch)** combined with **Docker, Kubernetes**, and full observability stacks (**Prometheus, Grafana, Zabbix**) to deliver reliable, production-grade applications.
 
