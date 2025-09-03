@@ -34,8 +34,11 @@ I explore **AI agents, RAG pipelines, and semantic search** using frameworks lik
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### 📊 GitHub Analytics  
-<div>
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusFernandesInacio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusFernandesInacio&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusFernandesInacio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
