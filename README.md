@@ -1,17 +1,12 @@
 ### Hi, I'm Vinicius Fernandes Inácio!
 #### Software Developer 
 
-I’m a **software developer focused on AI integration and automation**.  
-My work combines **back-end development (Java, Python, TypeScript)**,  
-**DevOps (Docker, Kubernetes, Linux)**, and **databases (MySQL, PostgreSQL, Redis)**  
-to build scalable and reliable systems.
+I’m a **software developer focused on AI integration and automation**. My work combines **back-end development (Java, Python, TypeScript)**, **DevOps (Docker, Kubernetes, Linux)**, and **databases (MySQL, PostgreSQL, Redis)** to build scalable and reliable systems.
 
-I explore **AI agents, RAG pipelines, and semantic search** using frameworks like  
-**LangChain, LangGraph, CrewAI, Pgvector, FAISS, and Weaviate**,  
-aiming to connect traditional applications with modern intelligent solutions.
+I explore **AI agents, RAG pipelines, and semantic search** using frameworks like **LangChain, LangGraph, CrewAI, Pgvector, FAISS, and Weaviate**, aiming to connect traditional applications with modern intelligent solutions.
 
 ### 📫 Professional Contact  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/viniciusfernandes-developer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-software-developer)
 
 ### 🛠️ Technical Stack  
 **Languages & Frameworks**  
