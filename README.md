@@ -72,7 +72,3 @@ I focus on end-to-end delivery: from architecture design to production environme
 
 ---
 
-## 📫 Professional Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusfernandes-software-developer)
-
----
